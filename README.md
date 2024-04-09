@@ -1,29 +1,23 @@
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=85DDAF&height=150&section=header&text=레디의 작업공방&fontSize=50" />
 
-레디의 작업공방
-=====
+<div align="center">
+
+# 레디의 작업공방
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRedyisready%2Fredygames&count_bg=%2389E5B6&title_bg=%231EA571&icon=pokemon.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/Redyisready/redygames)<br>
+<div>
+
+
 #### 게임기획자를 꿈꾸는 레디의 작업물 보관소
 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white=https://www.notion.so/40825af70c9d44f486c425fd3022480c"/></a> 
+
+<div align="left">
 
 
 
-## 1. 나의 첫 게임 UI디자인 문서
-- 벡터 이미지를 포함한 씬플로우 구조도와 함께 보는 UI디자인
-- 와이어프레임을 벡터 이미지로 제작한 것
-## 2. 레벨디자인
-- 매트로바이나 장르의 플래포머 게임의 초반 스테이지 설계
-## 3. 인벤토리 시스템
-- 드래그 앤 드랍 기능이 있는 인벤토리 설계
-## 4. 전투시스템
-- 온라인 필드 베이스 다대다 전투 환경의 전투 디자인
-## 5. 채팅시스템
-- UI 디자인 중 채팅에 대한 모든 시스템
-## 6. 경매장시스템
-- 게임 내 상품과 재화를 교환하는 공공거래 시스템을 주관하는 곳의 디자인</br>
 
 
 
-## 기타 테스트
-__*게임*__</br>
 
 
 [마이노션](https://www.notion.so/40825af70c9d44f486c425fd3022480c)
