@@ -26,19 +26,19 @@
 - 당신은 18세기 조선의 착호갑사가 되어 식인범을 잡기 위한 모험을 떠나게 됩니다. 
 
 #### 게임이 궁금하다면?
-[<img src="https://img.shields.io/badge/GDD 보러가기-cceeff?style=round-square&logo=&logoColor=white"/>](pages/page01.html)
+[<img src="https://img.shields.io/badge/GDD 보러가기-cceeff?style=round-square&logo=&logoColor=white"/>](contents/유경록%20-%20착호%20GDD.pdf)
 
 #### 게임의 세계관
- [<img src="https://img.shields.io/badge/착호의 세계관-B22222?style=round-square&logo=&logoColor=white"/>](pages/page02.html)<br>
- [<img src="https://img.shields.io/badge/착호의 스토리-ffa500?style=round-square&logo=&logoColor=white"/>](pages/page03.html)<br>
- [<img src="https://img.shields.io/badge/착호의 시나리오-daa520?style=round-square&logo=&logoColor=white"/>](pages/page04.html)<br>
+ [<img src="https://img.shields.io/badge/착호의 세계관-B22222?style=round-square&logo=&logoColor=white"/>](contents/유경록%20-%20착호%20세계관.pdf)<br>
+ [<img src="https://img.shields.io/badge/착호의 스토리-ffa500?style=round-square&logo=&logoColor=white"/>](contents/유경록%20-%20착호%20스토리%20개요%20문서.pdf)<br>
+ [<img src="https://img.shields.io/badge/착호의 시나리오-daa520?style=round-square&logo=&logoColor=white"/>](contents/유경록%20-%20착호%20퀘스트%20시나리오.pdf)<br>
 
  #### 게임의 등장인물
  [<img src="https://img.shields.io/badge/착호의 등장인물-32cd32?style=round-square&logo=&logoColor=white"/>]()<br>
- [<img src="https://img.shields.io/badge/착호의 갈등구조-008b8b?style=round-square&logo=&logoColor=white"/>](pages/page05.html)<br>
+ [<img src="https://img.shields.io/badge/착호의 갈등구조-008b8b?style=round-square&logo=&logoColor=white"/>](contents/유경록%20-%20착호%20에피소드%20별%20인물%20갈등%20구조.pdf)<br>
 
 #### 게임의 UI
- [<img src="https://img.shields.io/badge/착호의 UI 씬플로우 -4169E1?style=round-square&logo=&logoColor=white"/>](pages/page08.html)<br>
+ [<img src="https://img.shields.io/badge/착호의 UI 씬플로우 -4169E1?style=round-square&logo=&logoColor=white"/>](images/착호%20씬플로우.drawio.svg)<br>
 
 
 
