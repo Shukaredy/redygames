@@ -38,7 +38,24 @@
  [<img src="https://img.shields.io/badge/착호의 갈등구조-008b8b?style=round-square&logo=&logoColor=white"/>](contents/유경록%20-%20착호%20에피소드%20별%20인물%20갈등%20구조.pdf)<br>
 
 #### 게임의 UI
- [<img src="https://img.shields.io/badge/착호의 UI 씬플로우 -4169E1?style=round-square&logo=&logoColor=white"/>](images/착호%20씬플로우.drawio.svg)<br>
+ [<img src="https://img.shields.io/badge/착호의 UI 씬플로우 -4169E1?style=round-square&logo=&logoColor=white"/>](images/착호%20씬플로우.drawio.svg)
+ <br>
+
+ ---
+ <div align="center">
+
+ ## **🏫 조퇴하겠습니다!**
+
+ <div align="left">
+
+ #### 게임 소개
+ - '조퇴하겠습니다!'는 도트 2D 플랫포머 러닝 액션 게임입니다.
+ - 주인공 '민준'은 무사히 학교에서 조퇴할 수 있을까요?
+
+ #### 게임 기획 작업물이 궁금하다면?
+ [<img src="https://img.shields.io/badge/노션 페이지로 이동-008b8b?style=round-square&logo=&logoColor=white"/>](https://redygames.netlify.app/pages/sub02)<br>
+
+
 
 
 
