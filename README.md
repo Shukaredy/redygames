@@ -53,7 +53,7 @@
  - 주인공 '민준'은 무사히 학교에서 조퇴할 수 있을까요?
 
  #### 게임 기획 작업물이 궁금하다면?
- [<img src="https://img.shields.io/badge/노션 페이지로 이동-008b8b?style=round-square&logo=&logoColor=white"/>](https://redygames.netlify.app/pages/sub02)<br>
+ [<img src="https://img.shields.io/badge/페이지로 이동-008b8b?style=round-square&logo=&logoColor=white"/>](https://redygames.netlify.app/pages/sub02)<br>
 
 
 
